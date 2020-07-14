@@ -1,7 +1,6 @@
 # JAVA-SCRIPT
 
-SERIES JAVASCRIPT SIDA – SỰ BÁ ĐẠO CỦA ASYNC/AWAIT TRONG JS
-10/10/2017 PHẠM HUY HOÀNG 11 COMMENTS
+SERIES JAVASCRIPT:
 Lâu rồi chưa viết bài về kĩ thuật nên hôm nay viết một bài để dân tình biết là mình vẫn còn code nhé!
 
 Kì này, chúng ta sẽ tìm hiểu về async/await, một cặp từ khoá rất bá đạo trong JavaScript chuẩn ES2017. Biết cách dùng async/await sẽ giúp ta viết code ngắn gọn, hiệu quả và dễ dàng hơn nhiều nhé.
